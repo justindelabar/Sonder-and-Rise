@@ -395,7 +395,7 @@ h2.description {
   background-color: #ffffff;
   width: 95%;
   max-width: 960px;
-  margin: -290px auto 45px auto;
+  margin: -280px auto 45px auto;
     -webkit-box-shadow: 0px 21px 58px -20px rgba(0, 0, 0, 0.65);
   -moz-box-shadow: 0px 21px 58px -20px rgba(0, 0, 0, 0.65);
   box-shadow: 0px 21px 58px -20px rgba(0, 0, 0, 0.65);
@@ -983,6 +983,7 @@ div.mce_inline_error {
   } 
   #content-container {
   width: 100%;
+  margin-top: -150px;
   max-width:100%;
   -moz-box-shadow: none;
   -webkit-box-shadow:none;
@@ -992,8 +993,12 @@ div.mce_inline_error {
     padding-right: 20px;
     padding-left: 20px;
   }
-    #content-container h2.article-title {
+  #content-container h2.article-title {
       font-size: 34px;
-    }
+  }
+  #content-container p {
+    font-size: 1.17em;
+    padding-right: 20px;
+  }
 
 }
