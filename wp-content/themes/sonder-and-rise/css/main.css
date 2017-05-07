@@ -53,9 +53,6 @@ h6, .h6 {
 
 #masthead {
   background-color: #000;
-  -webkit-box-shadow: 0px 8px 25px 0px rgba(0,0,0,0.75);
-  -moz-box-shadow: 0px 8px 25px 0px rgba(0,0,0,0.75);
-  box-shadow: 0px 8px 25px 0px rgba(0,0,0,0.75);
   width: 100%;
   z-index: 99;
   margin-bottom: 0;
@@ -395,7 +392,7 @@ h2.description {
   background-color: #ffffff;
   width: 95%;
   max-width: 960px;
-  margin: -280px auto 45px auto;
+  margin: -140px auto 45px auto;
     -webkit-box-shadow: 0px 21px 58px -20px rgba(0, 0, 0, 0.65);
   -moz-box-shadow: 0px 21px 58px -20px rgba(0, 0, 0, 0.65);
   box-shadow: 0px 21px 58px -20px rgba(0, 0, 0, 0.65);
